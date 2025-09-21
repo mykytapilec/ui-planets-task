@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ui-planets-task/static/css/main.3d903597.css",
+    "main.js": "/ui-planets-task/static/js/main.ede67bf1.js",
+    "static/media/banner.png": "/ui-planets-task/static/media/banner.3c8a742122eb7a064f8d.png",
+    "static/media/rocket.svg": "/ui-planets-task/static/media/rocket.3ecb658fc3751e8f0d8b48cec81be49f.svg",
+    "static/media/card4.png": "/ui-planets-task/static/media/card4.c7ed75e6e60e81f6b96c.png",
+    "static/media/card1.png": "/ui-planets-task/static/media/card1.f9ac8220a934143cd37f.png",
+    "static/media/earth.svg": "/ui-planets-task/static/media/earth.a31d050ce98556a6b86563abe334744f.svg",
+    "static/media/card3.png": "/ui-planets-task/static/media/card3.ff1f3229bd6b817cf143.png",
+    "static/media/card2.png": "/ui-planets-task/static/media/card2.4d5bd400ae14e49342cd.png",
+    "static/media/LOGO.svg": "/ui-planets-task/static/media/LOGO.f4153131d3955bdfa609912a9f3b5caf.svg",
+    "static/media/basket.svg": "/ui-planets-task/static/media/basket.b697889a2021dbe00a30dd5ff69f0034.svg",
+    "static/media/burger.svg": "/ui-planets-task/static/media/burger.6839994c70d8fa1e2451eb481ca217d5.svg",
+    "static/media/yellowEllipse.svg": "/ui-planets-task/static/media/yellowEllipse.ce3f0ce7eb00f9f4d37a60755ce19489.svg",
+    "index.html": "/ui-planets-task/index.html",
+    "static/media/orbit.svg": "/ui-planets-task/static/media/orbit.7080595adf9db33802c09cade1eea45d.svg",
+    "static/media/orangeEllipse.svg": "/ui-planets-task/static/media/orangeEllipse.5ab7af54bda902596cc85eb13fa55955.svg",
+    "static/media/whiteEllipse.svg": "/ui-planets-task/static/media/whiteEllipse.20c7b09d6e86bb112001b8132bf3baf1.svg",
+    "main.3d903597.css.map": "/ui-planets-task/static/css/main.3d903597.css.map",
+    "main.ede67bf1.js.map": "/ui-planets-task/static/js/main.ede67bf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d903597.css",
+    "static/js/main.ede67bf1.js"
+  ]
+}
